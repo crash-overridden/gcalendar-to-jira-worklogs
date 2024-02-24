@@ -1,0 +1,36 @@
+# Compiled files
+*.o
+*.a
+*.so
+
+# Folders
+/bin/
+/pkg/
+/vendor/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Private files
+config.json
+credentials.json
+token.json
+loggedEvents.csv
+
+# Security
+*.pem
+*.key
+
+# IDE settings
+.idea/
+*.swp
+*.swo
+.vscode/
